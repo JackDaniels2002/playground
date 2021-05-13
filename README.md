@@ -63,7 +63,7 @@ Veja todas as alterações desse projeto no arquivo [CHANGELOG.md](CHANGELOG.md)
 ## 🧪 Projetos semelhates
 
 Abaixo está uma lista de links interessantes e projetos similares:
-
-* [Outro projeto](https://github.com/projeto)
+* [theultimatereligion](https://tenor.com/view/knight-solar-praise-the-sun-gif-5316154)
+* [kappakappaentraai](https://giphy.com/gifs/animation-minecraft-utgF8zIg13jhu)
 * [Projeto inspiração](https://github.com/projeto)
 * [Ferramenta semelhante](https://github.com/projeto)
